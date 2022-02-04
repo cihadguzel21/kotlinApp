@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
                     .setAction("Action", null).show()
         }
         /**
-         *0000 deeğiştirildi
+         *0000 deeğiştirildi bir kere daha
          *
          * */
     }
