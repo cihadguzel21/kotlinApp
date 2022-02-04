@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
                     .setAction("Action", null).show()
         }
         /**
-         * Changes maded for version 2
+         * Changes maded for version 3
          *
          *
          * */
